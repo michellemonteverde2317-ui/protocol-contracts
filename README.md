@@ -1,4 +1,4 @@
-# Deployed Addresses
+.# Deployed Addresses
 
 Deployed contracts' addresses for all supported networks can be found [here](./projects/hardhat-deploy/networks/)
 
